@@ -7,8 +7,7 @@
 Building responsive, accessible, and performant web applications from Ghana 🇬🇭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-aborsi-nsiah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emmanueldwayneaborsinsiah@gmail.com)
+
 
 </div>
 
@@ -77,7 +76,7 @@ Currently leading the frontend redesign of the **CSIR-Crop Research Institute** 
 
 ### 🗺 Travel Itinerary App
 > Responsive travel planning web application built within a cross-functional team
-- **Stack:** Angular · TypeScript · Angular Material · SCSS · Angular Signals
+- **Stack:** Angular · TypeScript · Angular Material · SCSS
 - Implemented Angular Signals for reactive state management
 - Built reusable components using Angular Material for consistent UI
 
