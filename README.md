@@ -1,20 +1,102 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Aborsi Nsiah</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanndev&label=Profile%20views&color=0e75b6&style=flat" alt="emanndev" /> </p>
+# Emmanuel Aborsi Nsiah
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanndev" alt="emanndev" /></a> </p>
+**Frontend Developer · React & Angular · TypeScript · AWS Certified**
 
-- 💬 Ask me about **react, angular**
+Building responsive, accessible, and performant web applications from Ghana 🇬🇭
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-aborsi-nsiah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuel-aborsi-nsiah/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-aborsi-nsiah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emmanueldwayneaborsinsiah@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanndev&show_icons=true&locale=en&layout=compact" alt="emanndev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanndev&show_icons=true&locale=en" alt="emanndev" /></p>
+## About Me
+
+I'm a Frontend Developer with hands-on experience building scalable web applications using **React**, **Angular**, and **TypeScript**. I care deeply about clean code, component architecture, and user experience that actually works for people.
+
+Currently leading the frontend redesign of the **CSIR-Crop Research Institute** website and deepening my React expertise — working through state management, performance optimisation, and testing.
+
+- 🔭 Currently building: **CSIR-CRI Website Redesign** (React · TypeScript · Tailwind)
+- 🌱 Currently learning: **React Query · Redux Toolkit · React Testing Library**
+- ☁️ Certified: **AWS Cloud Practitioner**
+- 📍 Based in: **Ghana** · Open to remote roles
+
+---
+
+## Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Styling**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=flat&logo=angular&logoColor=white)
+
+**State & Data**
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Tools & Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+
+---
+
+## Featured Projects
+
+### 🌐 CSIR-CRI Website Redesign *(In Progress)*
+> Modern institutional website for Ghana's premier crop research institute
+- **Stack:** React · TypeScript · Tailwind CSS
+- Focused on accessibility, responsive design, and performance
+- Collaborating with stakeholders to align digital presence with institutional goals
+
+---
+
+### ⏱ Seminar Timer App
+> Internal productivity tool built for CSIR-CRI research planning sessions
+- **Stack:** React · TypeScript · Tailwind CSS
+- Shipped and actively used by staff during the 2026 In-House Review event
+- [View Repo](#) · [Live Demo](#)
+
+---
+
+### 🗺 Travel Itinerary App
+> Responsive travel planning web application built within a cross-functional team
+- **Stack:** Angular · TypeScript · Angular Material · SCSS · Angular Signals
+- Implemented Angular Signals for reactive state management
+- Built reusable components using Angular Material for consistent UI
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanndev&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanndev&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to frontend roles — remote or onsite. Let's build something great.*
+
+</div>
