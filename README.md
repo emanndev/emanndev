@@ -1,6 +1,6 @@
 <div align="center">
 
-# Emmanuel Nsiah Aborsi
+# Emmanuel Aborsi Nsiah
 
 **Frontend Developer · React & Angular · TypeScript · AWS Certified**
 
